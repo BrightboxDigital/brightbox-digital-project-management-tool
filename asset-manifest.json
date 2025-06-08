@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brightbox-digital-project-management-tool/static/css/main.5017465b.css",
-    "main.js": "/brightbox-digital-project-management-tool/static/js/main.3a03c9af.js",
+    "main.css": "/brightbox-digital-project-management-tool/static/css/main.424d3b49.css",
+    "main.js": "/brightbox-digital-project-management-tool/static/js/main.d888d5f4.js",
     "static/js/453.518f2911.chunk.js": "/brightbox-digital-project-management-tool/static/js/453.518f2911.chunk.js",
     "index.html": "/brightbox-digital-project-management-tool/index.html",
-    "main.5017465b.css.map": "/brightbox-digital-project-management-tool/static/css/main.5017465b.css.map",
-    "main.3a03c9af.js.map": "/brightbox-digital-project-management-tool/static/js/main.3a03c9af.js.map",
+    "main.424d3b49.css.map": "/brightbox-digital-project-management-tool/static/css/main.424d3b49.css.map",
+    "main.d888d5f4.js.map": "/brightbox-digital-project-management-tool/static/js/main.d888d5f4.js.map",
     "453.518f2911.chunk.js.map": "/brightbox-digital-project-management-tool/static/js/453.518f2911.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5017465b.css",
-    "static/js/main.3a03c9af.js"
+    "static/css/main.424d3b49.css",
+    "static/js/main.d888d5f4.js"
   ]
 }
